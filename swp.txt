@@ -1,0 +1,18 @@
+Account ko muon co username password
+autoname đăng nhập bằng usename password etoken gmail ko liên quan gì tới sever
+application có nộp công việc
+auto id
+1 cái check role 1 cái check dữ liệu
+ký túc xá thue giuog phong căn nhà
+bỏ đã hết phòng
+data thiếu tiện ích
+thêm chỗ địa chỉ quận huyện 
+mô tả cả căn nhà 
+data thêm số lượng người bao nhiêu để ở trong 1 phòng
+bỏ subcription 
+thêm vào bảng booking
+thanh toán bằng momo để up thời gian đăng bài nhà
+sửa lại bài post thành tentative
+bỏ contract
+lập rõ phần tiệc ích gồm có ji
+thêm phần người thuê

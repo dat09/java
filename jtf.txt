@@ -1,0 +1,7 @@
+HCM20_
+https://www.sourcecodester.com/php/14437/simple-online-quiz-system-project-using-php-source-code.html
+http://javakitz.blogspot.com/2012/09/overloading.html
+http://java-mock-exam.blogspot.com/2008/04/java-programmer-certification-mock-exam_8550.html
+use quizapp;
+alter table quiz alter column point_per_item decimal(18,4);
+alter table quiz_result alter column total_point decimal(18,4);
